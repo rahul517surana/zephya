@@ -1,0 +1,9 @@
+name: zephyr
+dependencies:
+  - python=3.9
+  - colorama
+  - apktool
+  - plistlib
+  - os
+  - re
+  - subprocess
