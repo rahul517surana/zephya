@@ -16,6 +16,7 @@ jobs:
           python-version: '3.10'
       - name: Create and Activate Conda Environment
         run: |
+          conda init
           conda create -n build_env python=3.10 -y
           conda activate build_env
       - name: Install Dependencies
