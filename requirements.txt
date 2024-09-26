@@ -1,0 +1,6 @@
+colorama
+apktool
+plistlib
+os
+re
+subprocess
