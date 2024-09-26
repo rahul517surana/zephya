@@ -22,6 +22,10 @@ Features:
 3. Detailed reports: Generates comprehensive reports outlining identified vulnerabilities and recommendations for remediation.
 4. Regular updates: Stays up-to-date with the latest security threats and vulnerabilities.
 
+## Demo:
+
+![Screenshot 2024-09-27 004014](https://github.com/user-attachments/assets/dab2735b-21e5-47b9-9da6-58ab14b70356)
+![Screenshot 2024-09-27 004043](https://github.com/user-attachments/assets/271d530d-ea47-4c2e-997f-1660b1111648)
 
 ## ✅ Installation
 
